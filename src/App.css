@@ -1,0 +1,7 @@
+.body {
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  background: linear-gradient(to bottom, #202020 0%, #202020 10%, #545454 0%, #545454 90%);
+  --background-image: linear-gradient(to bottom, #202020, #2c2c2c, #393939, #464646, #545454);
+}
