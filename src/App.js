@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import { Container, Row, Col } from 'react-bootstrap'
 import './App.css'
 function App() {
